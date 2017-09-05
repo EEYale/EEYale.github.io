@@ -5,9 +5,9 @@ We are a group of researchers and students at Yale using [Google Earth Engine](h
 ## Join us!
 
 Wednesdays, 2-3.30pm
-Rosenkranz Hall, Room 01
-125 Prospect St, 
-New Haven, CT
+<br>Rosenkranz Hall, Room 01
+<br>125 Prospect St, 
+<br>New Haven, CT
 
 ## Calendar
 
