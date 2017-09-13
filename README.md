@@ -13,6 +13,3 @@ Wednesdays, 2-3.30pm
 
 <iframe src="https://calendar.google.com/calendar/embed?src=yale.edu_2r1f074oaqq28dfp1fvo9ec34g%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
-
-<script src="https://gist.github.com/funkycoda/63fbe2b2a2eb1f0fb45042d7be63e9d7.js"></script>
