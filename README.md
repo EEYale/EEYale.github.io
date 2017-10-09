@@ -14,7 +14,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 | Weeks | Presenter            | Title                                             |
 |-------|----------------------|---------------------------------------------------|
 | 9/6   | -                    | Introductions                                     |
-| 9/13  | Ajay                 | Intro to Github                                   |
+| 9/13  | Ajay Ranipeta        | Intro to Github                                   |
 | 9/20  | Ken (Kangning) Huang | Calculating global urban heat island effects      |
 | 9/27  | TC Chakraborty       | User Interface features and Charts in Code Editor |
 | 10/4  | Sabrina Szeto        | Modules                                           |
