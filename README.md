@@ -4,15 +4,16 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 
 ## Join us!
 
-Wednesdays, 2-3.30pm
-<br>Rosenkranz Hall, Room 01
-<br>125 Prospect St, 
-<br>New Haven, CT
+- Wednesdays, 2-3.30pm
+- Rosenkranz Hall, Room 01
+- 125 Prospect St, 
+- New Haven, CT
 
-## Presentations
+## Meetings
+
 | Weeks | Presenter            | Title                                             |
 |-------|----------------------|---------------------------------------------------|
-| 9/6   | -                    | Introductions                                                 |
+| 9/6   | -                    | Introductions                                     |
 | 9/13  | Ajay                 | Intro to Github                                   |
 | 9/20  | Ken (Kangning) Huang | Calculating global urban heat island effects      |
 | 9/27  | TC Chakraborty       | User Interface features and Charts in Code Editor |
@@ -21,10 +22,10 @@ Wednesdays, 2-3.30pm
 | 10/18 | -                    | Geospatial Software Design Final Projects         |
 | 10/25 | -                    | Geospatial Software Design Final Projects         |
 | 11/1  | Bessie Schwarz       | Cloud2Street                                      |
-| 11/8  | *Open slot*                 |*Open slot*                                               |
+| 11/8  | *Open slot*          |*Open slot*                                        |
 | 11/15 | CT GIS DAY           | Lighting Talks - More information soon            |
 | 11/22 | No Meeting           | No Meeting - Thanksgiving Break                   |
-| 11/29 | *Open slot*                 |*Open slot*                                              |
+| 11/29 | *Open slot*          |*Open slot*                                        |
 | 12/6  | Sabrina Szeto        | Mapping sagebrush cover in Wyoming                |
 
 
