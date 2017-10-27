@@ -6,7 +6,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 
 - Wednesdays, 2-3.30pm
 - [Rosenkranz Hall, Room 01](https://www.google.com/maps/place/Rosenkranz+Hall/@41.3147713,-72.9265229,17z/data=!3m1!4b1!4m5!3m4!1s0x89e7d9b7968fb1d5:0xab45b84002586254!8m2!3d41.3147713!4d-72.9243342)
-- 125 Prospect St, 
+- 115 Prospect St, 
 - New Haven, CT
 
 ## Meetings
