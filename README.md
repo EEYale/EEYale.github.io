@@ -22,10 +22,10 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 | 10/18 | -                    | Geospatial Software Design Final Projects         |
 | 10/25 | -                    | Geospatial Software Design Final Projects         |
 | 11/1  | Bessie Schwarz       | Cloud To Street                                   |
-| 11/8  | *Open slot*          | *Open slot*                                       |
+| 11/8  | Jeremy Malczyk       | Building Web Applications with Earth Engine       |
 | 11/15 | CT GIS DAY           | Lighting Talks - More information soon            |
 | 11/22 | No Meeting           | No Meeting - Thanksgiving Break                   |
-| 11/29 | Jeremy Malczyk       | Map of Life                                       |
+| 11/29 | pending              | pending                                           |
 | 12/6  | Sabrina Szeto        | Mapping sagebrush cover in Wyoming                |
 
 
