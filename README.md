@@ -26,7 +26,6 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 | 11/15 | CT GIS DAY           | [Lighting Talks](https://csssi.yale.edu/gisday2017)             |
 | 11/22 | No Meeting           | No Meeting - Thanksgiving Break                   |
 | 11/29 | -                    | End-of-Semester Party                             |
-| 12/6  | Sabrina Szeto        | Mapping sagebrush cover in Wyoming                |
 
 
 ## Calendar
