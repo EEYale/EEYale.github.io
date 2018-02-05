@@ -8,6 +8,8 @@ We are a group of students, researchers and developers at Yale with an interest 
 
 If you would like to join the working group, please contact sabrina.szeto@yale.edu for more information.  
 
+---
+
 # Fall '17
 
 ## Earth Engine @ Yale
