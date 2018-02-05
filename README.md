@@ -1,4 +1,16 @@
-# Earth Engine @ Yale
+# Spring '18
+
+## Geospatial Analysis and Visualization
+
+We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space.
+
+## Join us!
+
+If you would like to join the working group, please contact sabrina.szeto@yale.edu for more information.  
+
+# Fall '17
+
+## Earth Engine @ Yale
 
 We are a group of students, researchers and developers at Yale using [Google Earth Engine](https://earthengine.google.com) for spatial analysis on a wide range of topics. We meet weekly to share ideas, troubleshoot and work on code in the same space. In collaboration with Prof. Dana Tomlin's [Geospatial Software Design](https://environment.yale.edu/courses/2017-2018/detail/754/) class, this group aims to provide a space for mentorship and developing resources that will be useful to the broader Earth Engine user community.
 
