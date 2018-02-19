@@ -2,9 +2,16 @@
 
 ## Geospatial Analysis and Visualization
 
-We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space.
+We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space. 
+
+## What's happening this week (2/22)
+- We will be building a Leaflet web map using tree data from the [Urban Resources Initiative](http://uri.yale.edu/). 
+- Bring a laptop with you! 
 
 ## Join us!
+- Thursdays, 2-3pm
+- [205 Prospect St, Room 8A](https://goo.gl/maps/mRz2HpD5b6U2)
+- Hosted by the [Ucross High Plains Stewardship Initiative](https://highplainsstewardship.org)
 
 If you would like to join the working group, please contact sabrina.szeto@yale.edu for more information.  
 
