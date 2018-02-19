@@ -11,7 +11,7 @@ We are a group of students, researchers and developers at Yale with an interest 
 ## Join us!
 - Thursdays, 2-3pm
 - [205 Prospect St, Room 8A](https://goo.gl/maps/mRz2HpD5b6U2)
-- Hosted by the [Ucross High Plains Stewardship Initiative](https://highplainsstewardship.org)
+- Hosted at the [Ucross High Plains Stewardship Initiative](http://highplainsstewardship.org) office.
 
 If you would like to join the working group, please contact sabrina.szeto@yale.edu for more information.  
 
