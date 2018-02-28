@@ -4,10 +4,6 @@
 
 We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space. 
 
-## What's happening this week (2/22)
-- We will be building a Leaflet web map using tree data from the [Urban Resources Initiative](http://uri.yale.edu/). 
-- Bring a laptop with you! 
-
 ## Meetings
 
 | Weeks | Presenter            | Title                                             |
