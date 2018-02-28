@@ -13,6 +13,8 @@ We are a group of students, researchers and developers at Yale with an interest 
 | 3/1   | -                    | No meeting                                        |
 | 3/8   | TBD                  | Converting Spatial Data Types (Vector)            |
 
+... We are gathering ideas for what else to cover this Spring! 
+
 ## Join us!
 - Thursdays, 2-3pm
 - [205 Prospect St, Room 8A](https://goo.gl/maps/mRz2HpD5b6U2)
