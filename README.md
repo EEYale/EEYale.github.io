@@ -8,6 +8,15 @@ We are a group of students, researchers and developers at Yale with an interest 
 - We will be building a Leaflet web map using tree data from the [Urban Resources Initiative](http://uri.yale.edu/). 
 - Bring a laptop with you! 
 
+## Meetings
+
+| Weeks | Presenter            | Title                                             |
+|-------|----------------------|---------------------------------------------------|
+| 2/15  | -                    | Introductions                                     |
+| 2/22  | Sabrina Szeto        | Mapping New Haven Tree Data with Leaflet          |
+| 3/1   | -                    | No meeting                                        |
+| 3/8   | TBD                  | Converting Spatial Data Types (Vector)            |
+
 ## Join us!
 - Thursdays, 2-3pm
 - [205 Prospect St, Room 8A](https://goo.gl/maps/mRz2HpD5b6U2)
