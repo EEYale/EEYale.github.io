@@ -2,7 +2,7 @@
 
 ## Geospatial Analysis and Visualization
 
-We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space. 
+We are a group of students, researchers and developers at Yale with an interest in spatial analysis. We meet frequently to share ideas, troubleshoot and work on code in the same space. This is a continuation of the Fall Earth Engine @ Yale working group. 
 
 ## Meetings
 
