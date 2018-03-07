@@ -14,6 +14,7 @@ We are a group of students, researchers and developers at Yale with an interest 
 | 3/8   | Miriam Olivares, Giuseppe Amatulli                  | Converting Spatial Data Types (Vector)            |
 | 3/15  | -                    | Spring Break - No Meeting                         |
 | 3/22  | -                    | Spring Break - No Meeting                         |
+| 3/29  | TBD                  | Tentative: Demo of CollectEarth                   |
 
 ... We are gathering ideas for what else to cover this Spring! 
 
