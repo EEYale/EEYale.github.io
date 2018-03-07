@@ -12,7 +12,7 @@ We are a group of students, researchers and developers at Yale with an interest 
 | 2/22  | Sabrina Szeto        | Mapping New Haven Tree Data with Leaflet          |
 | 3/1   | -                    | Global Forest Watch Demo on 3/2 - No Meeting      |
 | 3/8   | Miriam Olivares, Giuseppe Amatulli                  | Converting Spatial Data Types (Vector)            |
-| 3/15  | -                    | Spring Break - No Meeting                         |
+| 3/15  | -                    | Spring Break - Co-working Session                    |
 | 3/22  | -                    | Spring Break - No Meeting                         |
 | 3/29  | TBD                  | Tentative: Demo of CollectEarth                   |
 
