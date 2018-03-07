@@ -10,10 +10,10 @@ We are a group of students, researchers and developers at Yale with an interest 
 |-------|----------------------|---------------------------------------------------|
 | 2/15  | -                    | Introductions                                     |
 | 2/22  | Sabrina Szeto        | Mapping New Haven Tree Data with Leaflet          |
-| 3/1   | -                    | No meeting (Global Forest Watch Demo on 3/2)      |
+| 3/1   | -                    | Global Forest Watch Demo on 3/2 - No Meeting      |
 | 3/8   | Miriam Olivares, Giuseppe Amatulli                  | Converting Spatial Data Types (Vector)            |
-| 3/15  | -                    | Spring Break                                      |
-| 3/22  | -                    | Spring Break                                      |
+| 3/15  | -                    | Spring Break - No Meeting                         |
+| 3/22  | -                    | Spring Break - No Meeting                         |
 
 ... We are gathering ideas for what else to cover this Spring! 
 
