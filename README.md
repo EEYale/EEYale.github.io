@@ -10,11 +10,13 @@ We are a group of students, researchers and developers at Yale with an interest 
 |-------|----------------------|---------------------------------------------------|
 | 2/15  | -                    | Introductions                                     |
 | 2/22  | Sabrina Szeto        | Mapping New Haven Tree Data with Leaflet          |
-| 3/1   | -                    | Global Forest Watch Demo on 3/2 - No Meeting      |
+| 3/2   | -                    | Global Forest Watch Demo on 3/2 - No Meeting on 3/1     |
 | 3/8   | Miriam Olivares, Giuseppe Amatulli                  | Converting Spatial Data Types (Vector)            |
-| 3/15  | -                    | Spring Break - Co-working Session                    |
+| 3/15  | -                    | Spring Break - Co-working Session                 |
 | 3/22  | -                    | Spring Break - No Meeting                         |
-| 3/29  | TBD                  | TBD               |
+| 3/27  | -                  | CSSSI Map Room's Soft Opening Map LAB Series - No Meeting on 3/29       |
+| 4/5   | Collaborative     | Mapping with D3 Tutorial (Part 1) by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
+| 4/12  | Collaborative     | Mapping with D3 Tutorial (Part 2) by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
 
 ... We are gathering ideas for what else to cover this Spring! 
 
