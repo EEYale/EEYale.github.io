@@ -15,13 +15,13 @@ We are a group of students, researchers and developers at Yale with an interest 
 | 3/15  | -                    | Spring Break - Co-working Session                 |
 | 3/22  | -                    | Spring Break - No Meeting                         |
 | 3/27  | -                  | CSSSI Map Room's Soft Opening Map LAB Series - No Meeting on 3/29       |
-| 4/5   | Collaborative     | Mapping with D3 Tutorial (Part 1) by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
-| 4/12  | Collaborative     | Mapping with D3 Tutorial (Part 2) by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
+| 4/5   | Giuseppe Amatulli     | [Introduction to GRASS GIS](https://research.computing.yale.edu/training/geo-computation-bootcamps/introduction-grass-gis)|
+| 4/12  | Collaborative     | Mapping with D3 Tutorial by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
 
 ... We are gathering ideas for what else to cover this Spring! 
 
 ## Join us!
-- Thursdays, 2-3pm
+- Thursdays, 2pm
 - [205 Prospect St, Room 8A](https://goo.gl/maps/mRz2HpD5b6U2)
 - Hosted at the [Ucross High Plains Stewardship Initiative](http://highplainsstewardship.org) office.
 
