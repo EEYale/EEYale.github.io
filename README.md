@@ -17,8 +17,8 @@ We are a group of students, researchers and developers at Yale with an interest 
 | 3/27  | -                  | CSSSI Map Room's Soft Opening Map LAB Series - No Meeting on 3/29       |
 | 4/5   | Giuseppe Amatulli     | [Introduction to GRASS GIS](https://research.computing.yale.edu/training/geo-computation-bootcamps/introduction-grass-gis)|
 | 4/12  | Collaborative     | Mapping with D3 Tutorial by [Maptime Seattle](http://maptimesea.github.io/2017/04/04/d3-mapping-II.html)|
-
-... We are gathering ideas for what else to cover this Spring! 
+| 4/19  | Sabrina Szeto     | Google Earth Engine Co-working Session |
+| 4/26  | Giuseppe Amatulli | [Hydrological Modeling using GRASS](https://research.computing.yale.edu/training/geo-computation-bootcamps/hydrological-modeling-using-grass)
 
 ## Join us!
 - Thursdays, 2pm
