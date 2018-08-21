@@ -1,3 +1,22 @@
+# Fall '18
+
+## Earth Engine @ Yale
+
+We are a group of students, researchers and developers at Yale using [Google Earth Engine](https://earthengine.google.com) for spatial analysis on a wide range of topics. We meet weekly to share ideas, troubleshoot and work on code in the same space. In collaboration with Prof. Dana Tomlin's [Geospatial Software Design](https://environment.yale.edu/courses/2018-2019/detail/754/) class, this group aims to provide a space for mentorship and developing resources that will be useful to the broader Earth Engine user community.
+
+## Join us!
+Our first meeting is on Monday, September 10 from 4 to 5pm. 
+We will be meeting at the [Yale Center for Earth Observation](https://yceo.yale.edu/) lab at 21 Sachem St, New Haven, CT 06511.
+
+## Meetings
+
+| Weeks | Presenter            | Title                                             |
+|-------|----------------------|---------------------------------------------------|
+| 9/10  | Sabrina Szeto        | Introductions                                     |
+| 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |
+
+We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@yale.edu for more information. 
+
 # Spring '18
 
 ## Geospatial Analysis and Visualization
