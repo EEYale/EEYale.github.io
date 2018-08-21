@@ -12,7 +12,7 @@ We will be meeting at the [Yale Center for Earth Observation](https://yceo.yale.
 
 | Weeks | Presenter            | Title                                             |
 |-------|----------------------|---------------------------------------------------|
-| 9/10  | Sabrina Szeto        | Introductions                                     |
+| 9/10  | -      | Introductions                                     |
 | 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |
 
 We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@yale.edu for more information. 
