@@ -19,7 +19,7 @@ We want to accomodate different schedules in our planning, so please fill in thi
 | 9/24  | TBD                  | TBD                                               |
 | 10/1  | TBD                  | TBD                                               |
 | 10/8  | TBD                  | TBD                                               |
-| 10/15 | TBD                  | TBD                                               |
+| 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |
 | 10/22 | TBD                  | TBD                                               |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
 | 11/5  | TBD                  | TBD                                               |
