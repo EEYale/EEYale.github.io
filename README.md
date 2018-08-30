@@ -23,7 +23,7 @@ We want to accomodate different schedules in our planning, so please fill in thi
 | 10/22 | TBD                  | TBD                                               |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
 | 11/5  | TBD                  | TBD                                               |
-| 11/12 | TBD                  | TBD                                               |
+| 11/15 | -                    | No Meeting on 11/12 - GIS Day, November 15        |
 | 11/19 | -                    | No Meeting - Thanksgiving Break                   |
 | 11/26 | -                    | End-of-Semester Party                             |
 
