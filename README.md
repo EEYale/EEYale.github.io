@@ -7,6 +7,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 ## Join us!
 Our first meeting is on Monday, September 10 from 4 to 5pm. 
 We will be meeting at the [Yale Center for Earth Observation](https://yceo.yale.edu/) lab at 21 Sachem St, New Haven, CT 06511. 
+
 We want to accomodate different schedules in our planning, so please fill in this [When2Meet](https://www.when2meet.com/?7041935-uxSB1) by September 17 with your typical Monday availability for the fall semester.
 
 ## Meetings
