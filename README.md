@@ -6,6 +6,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 
 ## Join us!
 Our weekly meetings are on Mondays from 4 to 5pm. 
+
 On 9/17 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
 
 ## Meetings
