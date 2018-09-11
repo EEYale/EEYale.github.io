@@ -16,7 +16,7 @@ We want to accomodate different schedules in our planning, so please fill in thi
 |-------|----------------------|---------------------------------------------------|
 | 9/10  | -                    | Introductions                                     |
 | 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |
-| 9/24  | TBD                  | TBD                                               |
+| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |
 | 10/1  | TBD                  | TBD                                               |
 | 10/8  | TBD                  | TBD                                               |
 | 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |
