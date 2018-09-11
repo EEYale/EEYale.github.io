@@ -5,18 +5,16 @@
 We are a group of students, researchers and developers at Yale using [Google Earth Engine](https://earthengine.google.com) for spatial analysis on a wide range of topics. We meet weekly to share ideas, troubleshoot and work on code in the same space. In collaboration with Prof. Dana Tomlin's [Geospatial Software Design](https://environment.yale.edu/courses/2018-2019/detail/754/) class, this group aims to provide a space for mentorship and developing resources that will be useful to the broader Earth Engine user community.
 
 ## Join us!
-Our first meeting is on Monday, September 10 from 4 to 5pm. 
-We will be meeting at the [Yale Center for Earth Observation](https://yceo.yale.edu/) lab at 21 Sachem St, New Haven, CT 06511. 
-
-We want to accomodate different schedules in our planning, so please fill in this [When2Meet](https://www.when2meet.com/?7041935-uxSB1) by September 17 with your typical Monday availability for the fall semester.
+Our weekly meetings are on Mondays from 4 to 5pm. 
+On 9/17 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
 
 ## Meetings
 
-| Weeks | Presenter            | Title                                             |
-|-------|----------------------|---------------------------------------------------|
-| 9/10  | -                    | Introductions                                     |
-| 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |
-| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |
+| Weeks | Presenter            | Title                                             | Location       |
+|-------|----------------------|---------------------------------------------------|----------------|
+| 9/10  | -                    | Introductions                                     |YCEO Lab        |
+| 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |Sage Hall 8A, UHPSI Office |
+| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               | YCEO Lab        |
 | 10/1  | TBD                  | TBD                                               |
 | 10/8  | TBD                  | TBD                                               |
 | 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |
