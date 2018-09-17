@@ -16,7 +16,7 @@ On 9/17 we will meet at the [Ucross High Plains Stewardship Initiative office](h
 | 9/10  | -                    | Introductions                                     |YCEO Lab        |
 | 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |Sage Hall 8A, UHPSI Office |
 | 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               | YCEO Lab        |
-| 10/1  | TBD                  | TBD                                               |
+| 10/1  | TC Chakraborty       | TBD                                               |Sage Hall 8A, UHPSI Office |
 | 10/8  | TBD                  | TBD                                               |
 | 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |
 | 10/22 | TBD                  | TBD                                               |
