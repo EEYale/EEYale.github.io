@@ -9,6 +9,8 @@ Our weekly meetings are on Mondays from 4 to 5pm.
 
 On 9/17 and 9/24 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
 
+Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
+
 ## Meetings
 
 | Weeks | Presenter            | Title                                             | Location       |
