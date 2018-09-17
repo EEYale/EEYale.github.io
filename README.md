@@ -7,7 +7,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 ## Join us!
 Our weekly meetings are on Mondays from 4 to 5pm. 
 
-On 9/17 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
+On 9/17 and 9/24 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
 
 ## Meetings
 
@@ -15,10 +15,10 @@ On 9/17 we will meet at the [Ucross High Plains Stewardship Initiative office](h
 |-------|----------------------|---------------------------------------------------|----------------|
 | 9/10  | -                    | Introductions                                     |YCEO Lab        |
 | 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |Sage Hall 8A, UHPSI Office |
-| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               | YCEO Lab        |
-| 10/1  | TC Chakraborty       | TBD                                               |Sage Hall 8A, UHPSI Office |
+| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |Sage Hall 8A, UHPSI Office      |
+| 10/1  | TC Chakraborty       | TBD                                               |YCEO Lab |
 | 10/8  | TBD                  | TBD                                               |
-| 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |
+| 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |Sage Hall 8A, UHPSI Office |
 | 10/22 | TBD                  | TBD                                               |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
 | 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              |
