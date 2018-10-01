@@ -18,8 +18,8 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 9/10  | -                    | Introductions                                     |YCEO Lab        |
 | 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |Sage Hall 8A, UHPSI Office |
 | 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |Sage Hall 8A, UHPSI Office      |
-| 10/1  | TC Chakraborty       | TBD                                               |YCEO Lab |
-| 10/8  | TBD                  | TBD                                               |
+| 10/1  | TC Chakraborty       | Designing a Web Application to Visualize Urban Heat Islands at a Global Scale using the Google Earth Engine Platform'                                               |YCEO Lab |
+| 10/8  | -                  | Geospatial Software Design Final Projects                                               | YCEO Lab |
 | 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |Sage Hall 8A, UHPSI Office |
 | 10/22 | TBD                  | TBD                                               |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
