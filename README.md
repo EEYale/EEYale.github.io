@@ -7,7 +7,7 @@ We are a group of students, researchers and developers at Yale using [Google Ear
 ## Join us!
 Our weekly meetings are on Mondays from 4 to 5pm. 
 
-On 9/17 and 9/24 we will meet at the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium).
+Our two meeting venues are the the [Yale Center for Earth Observations](https://yceo.yale.edu) lab on 21 Sachem as well as the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium). Please check the weekly schedule below for the location of that week's meeting.
 
 Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 
