@@ -24,7 +24,7 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 10/22 | TBD                  | TBD                                               |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
 | 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              |
-| 11/15 | -                    | No Meeting on 11/12 - GIS Day 11/15               |
+| 11/15 | -                    | No Meeting on 11/12 - GIS Day 11/15 Lightning Talks            |
 | 11/19 | -                    | No Meeting - Thanksgiving Break                   |
 | 11/26 | -                    | End-of-Semester Party                             |
 
