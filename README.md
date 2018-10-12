@@ -24,7 +24,7 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 10/22 | Alumni                  | Alumni Geospatial Career Chat                           |YCEO Lab |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             | Sage Hall 8A, UHPSI Office |
 | 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              | YCEO Lab |
-| 11/15 | -                    | GIS Day Lightning Talks |     -      |
+| 11/15 | -                    | GIS Day Lightning Talks | Sterling Memorial Library      |
 | 11/19 | -                    | No Meeting - Thanksgiving Break                   | - |
 | 11/26 | -                    | End-of-Semester Party                             | Sage Hall 8A, UHPSI Office |
 
