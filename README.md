@@ -21,7 +21,7 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 10/1  | TC Chakraborty       | Designing a Web Application to Visualize Urban Heat Islands at a Global Scale using the Google Earth Engine Platform'                                               |YCEO Lab |
 | 10/8  | -                  | Geospatial Software Design Final Projects                                               | YCEO Lab |
 | 10/15 | Sabrina Szeto        | Examples to Apps Hackathon                         |Sage Hall 8A, UHPSI Office |
-| 10/22 | Alumni                  | Alumni Careers Panel                            |YCEO Lab |
+| 10/22 | Alumni                  | Alumni Geospatial Career Chat                           |YCEO Lab |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             | Sage Hall 8A, UHPSI Office |
 | 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              | YCEO Lab |
 | 11/15 | -                    | No Meeting on 11/12 - GIS Day 11/15 Lightning Talks |     -      |
