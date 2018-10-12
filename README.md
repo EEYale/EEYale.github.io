@@ -20,13 +20,13 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |Sage Hall 8A, UHPSI Office      |
 | 10/1  | TC Chakraborty       | Designing a Web Application to Visualize Urban Heat Islands at a Global Scale using the Google Earth Engine Platform'                                               |YCEO Lab |
 | 10/8  | -                  | Geospatial Software Design Final Projects                                               | YCEO Lab |
-| 10/15 | Sabrina Szeto        | Notes-to-GitHub Hackathon                         |Sage Hall 8A, UHPSI Office |
-| 10/22 | TBD                  | TBD                                               |
-| 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             |
-| 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              |
-| 11/15 | -                    | No Meeting on 11/12 - GIS Day 11/15 Lightning Talks            |
-| 11/19 | -                    | No Meeting - Thanksgiving Break                   |
-| 11/26 | -                    | End-of-Semester Party                             |
+| 10/15 | Sabrina Szeto        | Examples to Apps Hackathon                         |Sage Hall 8A, UHPSI Office |
+| 10/22 | Alumni                  | Alumni Careers Panel                            |YCEO Lab |
+| 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             | Sage Hall 8A, UHPSI Office |
+| 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              | YCEO Lab |
+| 11/15 | -                    | No Meeting on 11/12 - GIS Day 11/15 Lightning Talks |     -      |
+| 11/19 | -                    | No Meeting - Thanksgiving Break                   | - |
+| 11/26 | -                    | End-of-Semester Party                             | Sage Hall 8A, UHPSI Office |
 
 We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@yale.edu for more information. 
 
