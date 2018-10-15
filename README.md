@@ -23,7 +23,7 @@ Sign up for our [mailing list](http://bit.ly/eeyalegroup) for updates.
 | 10/15 | Mike Slattery, Sabrina Szeto        | Examples to Apps Hackathon                         |Sage Hall 8A, UHPSI Office |
 | 10/22 | Alumni                  | [Alumni Geospatial Career Chat](https://yale.zoom.us/meeting/register/e45d86aaa4a2eff8cde7dc3c8da9331e)                           |YCEO Lab |
 | 10/29 | Ajay Ranipeta        | Working with Big Data in Earth Engine             | Sage Hall 8A, UHPSI Office |
-| 11/5  | Diego Ellis Soto     | Using animals as environmental Buoys              | YCEO Lab |
+| 11/5  | Diego Ellis Soto     | Using Animals as Environmental Buoys              | YCEO Lab |
 | 11/15 | -                    | GIS Day Lightning Talks | Sterling Memorial Library      |
 | 11/19 | -                    | No Meeting - Thanksgiving Break                   | - |
 | 11/26 | -                    | End-of-Semester Party                             | Sage Hall 8A, UHPSI Office |
