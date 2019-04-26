@@ -1,5 +1,5 @@
 
-# Fall '18
+# Fall '19
 
 ## Earth Engine @ Yale
 
