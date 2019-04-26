@@ -6,6 +6,8 @@
 We are a group of students, researchers and developers at Yale using [Google Earth Engine](https://earthengine.google.com) for spatial analysis on a wide range of topics. We meet weekly to share ideas, troubleshoot and work on code in the same space. In collaboration with Prof. Dana Tomlin's [Geospatial Software Design](https://environment.yale.edu/courses/2018-2019/detail/754/) class, this group aims to provide a space for mentorship and developing resources that will be useful to the broader Earth Engine user community.
 
 Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for updates on when we are starting up meetings again!
+
+
 ---
 
 # Fall '18
