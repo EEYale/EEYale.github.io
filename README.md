@@ -10,11 +10,43 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 ---
 
-# Fall '18
+
 
 ## Earth Engine @ Yale
 
 ## Join us!
+
+Our weekly meetings are on Mondays from 3 to 4pm. 
+
+Our meeting venue is the [Yale Center for Earth Observations](https://yceo.yale.edu) lab in the Environmental Science Center, Room 119 on 21 Sachem St.
+
+Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for updates.
+
+## Meetings
+
+| Weeks | Presenter            | Title                                             | Location       |
+|-------|----------------------|---------------------------------------------------|----------------|
+| 9/10  | -                    | Introductions                                     |YCEO Lab        |
+| 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |YCEO Lab |
+| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |YCEO Lab      |
+| 10/1  | TC Chakraborty       | Designing a Web Application to Visualize Urban Heat Islands at a Global Scale using the Google Earth Engine Platform'                                               |YCEO Lab |
+| 10/8  | -                  | Geospatial Software Design Final Projects                                               | YCEO Lab |
+| 10/15 | Mike Slattery, Sabrina Szeto        | Examples to Apps Hackathon                         | YCEO Lab |
+| 10/22 | Alumni                  | [Alumni Geospatial Career Chat](https://yale.zoom.us/meeting/register/e45d86aaa4a2eff8cde7dc3c8da9331e)                           | YCEO Lab |
+| 10/29 | Ajay Ranipeta        | TBD           | Sage Hall 8A, UHPSI Office |
+| 11/5  | Diego Ellis Soto     | Using Animals as Environmental Buoys              | YCEO Lab |
+| 11/15 | -                    | [GIS Day Lightning Talks](http://bit.ly/lightningtalks2018) | Sterling Memorial Library Lecture Hall      |
+| 11/26 | -                    | End-of-Semester Party                             | YCEO Lab |
+
+We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@yale.edu for more information. 
+
+---
+
+
+
+
+# Fall '18
+
 Our weekly meetings are on Mondays from 4 to 5pm. 
 
 Our two meeting venues are the [Yale Center for Earth Observations](https://yceo.yale.edu) lab in the Environmental Science Center, Room 119 on 21 Sachem St, as well as the [Ucross High Plains Stewardship Initiative office](http://highplainsstewardship.org/) at Sage Hall, Room 8A at 205 Prospect St. It is located on the ground floor at the end of the corridor (under Bowers auditorium). Please check the weekly schedule below for the location of that week's meeting.
