@@ -22,7 +22,7 @@ Our meeting venue is the [Yale Center for Earth Observations](https://yceo.yale.
 
 Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for updates.
 
-## Meetings
+## Meetings (tentative)
 
 | Weeks | Presenter            | Title                                             | Location       |
 |-------|----------------------|---------------------------------------------------|----------------|
