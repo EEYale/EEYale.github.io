@@ -28,7 +28,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 |-------|----------------------|---------------------------------------------------|----------------|
 | 9/10  | -                    | Introductions and plans for the semester          |YCEO Lab        |
 | 9/23  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
-| 10/7  | Kelvin Fong           | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |YCEO Lab      |
+| 10/7  | Kelvin Fong           | TBD |YCEO Lab      |
 | 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
 | 11/4 | Natalie Schultz                  | Global satellite data highlights the diurnal asymmetry of the surface temperature response to deforestation                                                | YCEO Lab |
 | 11/18 | Ajay Ranipeta        | TBD          | YCEO Lab |
