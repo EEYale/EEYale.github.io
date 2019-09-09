@@ -10,7 +10,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 ---
 
-
+# Fall '19
 
 ## Earth Engine @ Yale
 
@@ -26,19 +26,16 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 | Weeks | Presenter            | Title                                             | Location       |
 |-------|----------------------|---------------------------------------------------|----------------|
-| 9/10  | -                    | Introductions                                     |YCEO Lab        |
-| 9/17  | Sabrina Szeto        | Earth Engine User Summit 2018 Recap               |YCEO Lab |
-| 9/24  | Dylan Cicero         | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |YCEO Lab      |
-| 10/1  | TC Chakraborty       | Designing a Web Application to Visualize Urban Heat Islands at a Global Scale using the Google Earth Engine Platform'                                               |YCEO Lab |
-| 10/8  | -                  | Geospatial Software Design Final Projects                                               | YCEO Lab |
-| 10/15 | Mike Slattery, Sabrina Szeto        | Examples to Apps Hackathon                         | YCEO Lab |
-| 10/22 | Alumni                  | [Alumni Geospatial Career Chat](https://yale.zoom.us/meeting/register/e45d86aaa4a2eff8cde7dc3c8da9331e)                           | YCEO Lab |
-| 10/29 | Ajay Ranipeta        | TBD           | Sage Hall 8A, UHPSI Office |
-| 11/5  | Diego Ellis Soto     | Using Animals as Environmental Buoys              | YCEO Lab |
-| 11/15 | -                    | [GIS Day Lightning Talks](http://bit.ly/lightningtalks2018) | Sterling Memorial Library Lecture Hall      |
-| 11/26 | -                    | End-of-Semester Party                             | YCEO Lab |
+| 9/10  | -                    | Introductions and plans for the semester          |YCEO Lab        |
+| 9/23  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
+| 10/7  | Kelvin Fong           | A Satellite Remote Sensing Methodology to Assess Pasture Recovery Time After Grazing Animal Impact                                               |YCEO Lab      |
+| 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
+| 11/4 | Natalie Schultz                  | Global satellite data highlights the diurnal asymmetry of the surface temperature response to deforestation                                                | YCEO Lab |
+| 11/18 | Ajay Ranipeta        | TBD          | YCEO Lab |
+| 12/02 | Alumni                  | End-of-Semester Party                             | YCEO Lab |
 
-We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@yale.edu for more information. 
+
+We are seeking presenters for upcoming meetings. Please contact tc.chakraborty@yale.edu for more information. 
 
 ---
 
@@ -46,6 +43,10 @@ We are seeking presenters for upcoming meetings. Please contact sabrina.szeto@ya
 
 
 # Fall '18
+
+## Earth Engine @ Yale
+
+## Join us!
 
 Our weekly meetings are on Mondays from 4 to 5pm. 
 
