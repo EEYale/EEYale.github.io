@@ -16,7 +16,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 ## Join us!
 
-Our weekly meetings are on Mondays from 3 to 4pm. 
+Our meetings are on Mondays from 3 to 4pm. 
 
 Our meeting venue is the [Yale Center for Earth Observations](https://yceo.yale.edu) lab in the Environmental Science Center, Room 119 on 21 Sachem St.
 
