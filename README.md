@@ -20,7 +20,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 | 9/30  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
 | 10/7  | Kelvin Fong           | Accelerating Exposure Assessment in Environmental Epidemiology |YCEO Lab      |
 | 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
-| 11/4 | Natalie Schultz                  | Global satellite data highlights the diurnal asymmetry of the surface temperature response to deforestation                                                | YCEO Lab |
+| 11/4 | Natalie Schultz                  | Using global satellite data and earth system models to investigate the impacts of land use change on climate                                                | YCEO Lab |
 | 11/18 | Ajay Ranipeta        | TBD          | YCEO Lab |
 | 12/02 | Alumni                  | End-of-Semester Party                             | YCEO Lab |
 
