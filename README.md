@@ -22,7 +22,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 | 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
 | 11/4 | Natalie Schultz                  | Using global satellite data and earth system models to investigate the impacts of land use change on climate                                                | YCEO Lab |
 | 11/18 | Chris C. Lim        | Mapping urban air quality using mobile sampling with low-cost sensors and machine learning in Seoul, South Korea          | YCEO Lab |
-| 12/02 | Ajay Ranipeta                  | TBD                             | YCEO Lab |
+| 12/02 | Ajay Ranipeta                  | Tools for Integrating Remote Sensing and Organismal Occurrence Data                             | YCEO Lab |
 
 
 We are seeking presenters for upcoming meetings. Please contact tc.chakraborty@yale.edu for more information. 
