@@ -14,7 +14,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 ## Meetings
 
-| Weeks | Presenter            | Title                                             | Location       |
+| Date | Presenter            | Title                                             | Location       |
 |-------|----------------------|---------------------------------------------------|----------------|
 | 9/10  | -                    | Introductions and plans for the semester          |YCEO Lab        |
 | 9/30  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
