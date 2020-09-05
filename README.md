@@ -7,7 +7,11 @@ For Fall 2020, we are going virtual and global. Our meetings will begin in Septe
 The schedule below lists the speakers for Series B. For Series A, please refer to this [website](https://sabrinaszeto.com/earth-engine-virtual-meetup).
 ## Join us!
 
-Our meeting venue is the [Yale Center for Earth Observations](https://yceo.yale.edu) lab in the Environmental Science Center, Room 119 on 21 Sachem St.
+All meetings will be held via Zoom and is free and open to everyone. 
+
+Register for Series A [here](https://us02web.zoom.us/meeting/register/tZAude-vqD4rGdx8S-iipq9yqs8k2cY4UOYt)
+
+Register for Series B [here](https://yale.zoom.us/meeting/register/tJcpdOyvrD8rH9w_2lecm8XclR6TQCEfEnHq)
 
 Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for updates.
 
@@ -15,13 +19,10 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 
 | Date | Presenter            | Title                                             | Location       |
 |-------|----------------------|---------------------------------------------------|----------------|
-| 9/10  | -                    | Introductions and plans for the semester          |YCEO Lab        |
-| 9/30  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
-| 10/7  | Kelvin Fong           | Accelerating Exposure Assessment in Environmental Epidemiology |YCEO Lab      |
-| 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
-| 11/4 | Natalie Schultz                  | Using global satellite data and earth system models to investigate the impacts of land use change on climate                                                | YCEO Lab |
-| 11/18 | Chris C. Lim        | Mapping urban air quality using mobile sampling with low-cost sensors and machine learning in Seoul, South Korea          | YCEO Lab |
-| 12/02 | Ajay Ranipeta                  | Tools for Integrating Remote Sensing and Organismal Occurrence Data                             | YCEO Lab |
+| 9/23  | Zander Venter        | Lockdowns + Google Earth Engine + procrastination = interesting science!  | Zoom |
+| 10/28  | Hari Iyer           | Guest Speaker | Zoom      |
+| 11/15  | <To be announced>   | Guest Speaker   | Zoom |
+| 12/23 | Sofia Ermida                  | Guest Speaker                                                | Zoom |
 
 
 We are seeking presenters for upcoming meetings. Please contact tc.chakraborty@yale.edu for more information. 
