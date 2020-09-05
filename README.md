@@ -1,3 +1,34 @@
+# Fall '20
+
+## Earth Engine Virtual Meetup Series B
+
+For Fall 2020, we are going virtual and global. Our meetings will begin in September and we will meet twice a month from 1 pm to 2 pm Eastern Daylight Time (EDT). We are excited to announce that these meetings will also be co-hosted by our alum, Sabrina Szeto.
+
+The schedule below lists the speakers for Series B. For Series A, please refer to this [website](https://sabrinaszeto.com/earth-engine-virtual-meetup).
+## Join us!
+
+Our meeting venue is the [Yale Center for Earth Observations](https://yceo.yale.edu) lab in the Environmental Science Center, Room 119 on 21 Sachem St.
+
+Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for updates.
+
+## Meetings
+
+| Date | Presenter            | Title                                             | Location       |
+|-------|----------------------|---------------------------------------------------|----------------|
+| 9/10  | -                    | Introductions and plans for the semester          |YCEO Lab        |
+| 9/30  | TC Chakraborty        | Reflections from the Geo for Good summit          |YCEO Lab |
+| 10/7  | Kelvin Fong           | Accelerating Exposure Assessment in Environmental Epidemiology |YCEO Lab      |
+| 10/21  | Diego Ellis Soto   | Combining satellite, weather station and animal collected environmental information for improved weather forecasting   |YCEO Lab |
+| 11/4 | Natalie Schultz                  | Using global satellite data and earth system models to investigate the impacts of land use change on climate                                                | YCEO Lab |
+| 11/18 | Chris C. Lim        | Mapping urban air quality using mobile sampling with low-cost sensors and machine learning in Seoul, South Korea          | YCEO Lab |
+| 12/02 | Ajay Ranipeta                  | Tools for Integrating Remote Sensing and Organismal Occurrence Data                             | YCEO Lab |
+
+
+We are seeking presenters for upcoming meetings. Please contact tc.chakraborty@yale.edu for more information. 
+
+---
+
+
 # Fall '19
 
 ## Earth Engine @ Yale
