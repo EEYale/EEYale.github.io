@@ -2,7 +2,7 @@
 
 ## Earth Engine Virtual Meetup Series B
 
-For Fall 2020, we are going virtual and global. Our meetings will begin in September and we will meet twice a month from 1 pm to 2 pm Eastern Daylight Time (EDT). We are excited to announce that these meetings will also be co-hosted by our alum, [Sabrina Szeto](https://sabrinaszeto.com/).
+For Fall 2020, we are going virtual and global. Our meetings will begin in September and we will meet twice a month from 1 pm to 2 pm Eastern Daylight Time (EDT). We are excited to announce that these meetings will also be co-hosted by our alum [Sabrina Szeto](https://sabrinaszeto.com/).
 
 The schedule below lists the speakers for Series B. For Series A, please refer to this [website](https://sabrinaszeto.com/earth-engine-virtual-meetup).
 ## Join us!
