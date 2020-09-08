@@ -21,7 +21,7 @@ Sign up for our [mailing list](https://groups.google.com/d/forum/eeyale) for upd
 |-------|----------------------|---------------------------------------------------|----------------|
 | 9/23  | Zander Venter        | Lockdowns + Google Earth Engine + procrastination = interesting science!  | Zoom |
 | 10/28  | Hari Iyer           | To be announced | Zoom      |
-| 11/15  | To be announced   | To be announced   | Zoom |
+| 11/25  | To be announced   | To be announced   | Zoom |
 | 12/23 | Sofia Ermida                  | To be announced                                               | Zoom |
 
 
